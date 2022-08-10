@@ -1,0 +1,198 @@
+/*global*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: white
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  padding: 32px 0;
+  text-align: center;
+  }
+
+.logo img {
+  width: 75%;
+  display: block;
+  margin: 0px auto;
+  
+}
+
+.letras img {
+  width: 90%;
+  display: block;
+  margin: 0 auto 30px auto
+}
+
+.horario-atendimento {
+  color: #FF0000;
+  font-family: "Righteous", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 10px;
+}
+
+h1 {
+  color: #FF0000;
+  font-family: "Righteous", sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+
+h2 {
+  color: #FF1212;
+  font-family: "Righteous", Sans-serif;
+  font-size: 25px;
+  line-height: 1.3em;
+  text-align: center;
+  margin-top: 0;
+}
+
+h3 {
+  color: #FF0000;
+  font-family: "Righteous", sans-serif;
+  font-size: 18px;
+  line-height: 1.3em;
+  text-align: center;
+  margin-top: 20px;
+}
+
+h4 {
+  color: black;
+  font-family: "Righteous", sans-serif;
+  font-size: 13px;
+  line-height: 1.3em;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.details {
+  color: black;
+  font-family: "Righteous", sans-serif;
+  font-size: 15px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+
+.price {
+  color: darkgoldenrod;
+  font-family: "Righteous", sans-serif;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.obs {
+  color: darkred;
+  font-family: "Righteous", sans-serif;
+  font-size: 15px;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: center;
+  
+}
+
+.description {
+  color: darkred;
+  font-family: "Righteous", sans-serif;
+  font-size: 10px;
+}
+
+/*pasteis*/
+.pasteis img {
+  width: 30%;
+  display: block;
+  margin: 0px auto;
+  border: solid 1px #FF0000;
+  border-radius: 40%;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.pasteis a {
+  text-decoration: none;
+}
+
+/*lanches*/
+.lanches img {
+  width: 30%;
+  display: block;
+  margin: 0px auto;
+  border: solid 1px #FF0000;
+  border-radius: 40%;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.lanches a {
+  text-decoration: none;
+}
+
+/*baguetes*/
+.baguetes img {
+  width: 30%;
+  display: block;
+  margin: 0px auto;
+  border: solid 1px #FF0000;
+  border-radius: 40%;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.baguetes a {
+  text-decoration: none;
+}
+
+/*hot-dog*/
+.hot-dog img {
+  width: 30%;
+  display: block;
+  margin: 0px auto;
+  border: solid 1px #FF0000;
+  border-radius: 40%;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.hot-dog a {
+  text-decoration: none;
+}
+
+/*porcoes*/
+.porcoes img {
+  width: 30%;
+  display: block;
+  margin: 0px auto;
+  border: solid 1px #FF0000;
+  border-radius: 40%;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.porcoes a {
+  text-decoration: none;
+}
+/*bebidas*/
+.bebidas img {
+  width: 50%;
+  display: block;
+  margin: 0px auto;
+  border: solid 1px #FF0000;
+  border-radius: 40%;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.bebidas a {
+  text-decoration: none;
+}
+
